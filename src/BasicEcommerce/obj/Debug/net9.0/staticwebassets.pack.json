@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/home/luisin/Directorys/Testes_Técnicos/MegaMamute_Londrina/Teste_Tecnico_Megamamute/src/BasicEcommerce/wwwroot/js/Produto.js",
+      "PackagePath": "staticwebassets/js/Produto.js"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.BasicEcommerce.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.BasicEcommerce.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.BasicEcommerce.props",
+      "PackagePath": "build\\BasicEcommerce.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.BasicEcommerce.props",
+      "PackagePath": "buildMultiTargeting\\BasicEcommerce.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.BasicEcommerce.props",
+      "PackagePath": "buildTransitive\\BasicEcommerce.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

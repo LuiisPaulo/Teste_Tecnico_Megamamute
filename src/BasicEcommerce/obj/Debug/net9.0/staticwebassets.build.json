@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "bZCCH0TEw6KSphGE5oxS0wzIgsjGsvGudx0UG2gTl9Y=",
+  "Source": "BasicEcommerce",
+  "BasePath": "_content/BasicEcommerce",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BasicEcommerce/wwwroot",
+      "Source": "BasicEcommerce",
+      "ContentRoot": "/home/luisin/Directorys/Testes_Técnicos/MegaMamute_Londrina/Teste_Tecnico_Megamamute/src/BasicEcommerce/wwwroot/",
+      "BasePath": "_content/BasicEcommerce",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/luisin/Directorys/Testes_Técnicos/MegaMamute_Londrina/Teste_Tecnico_Megamamute/src/BasicEcommerce/obj/Debug/net9.0/compressed/mnbnanmcmf-l1cq7vl02o.gz",
+      "SourceId": "BasicEcommerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/luisin/Directorys/Testes_Técnicos/MegaMamute_Londrina/Teste_Tecnico_Megamamute/src/BasicEcommerce/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/BasicEcommerce",
+      "RelativePath": "js/Produto#[.{fingerprint=l1cq7vl02o}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/luisin/Directorys/Testes_Técnicos/MegaMamute_Londrina/Teste_Tecnico_Megamamute/src/BasicEcommerce/wwwroot/js/Produto.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "qrdjh5ziq3",
+      "Integrity": "dmEcBAVzXPMmmZ3r9BFOEyuHQ44W2AObrhWk0Nnr8O4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/luisin/Directorys/Testes_Técnicos/MegaMamute_Londrina/Teste_Tecnico_Megamamute/src/BasicEcommerce/wwwroot/js/Produto.js"
+    },
+    {
+      "Identity": "/home/luisin/Directorys/Testes_Técnicos/MegaMamute_Londrina/Teste_Tecnico_Megamamute/src/BasicEcommerce/wwwroot/js/Produto.js",
+      "SourceId": "BasicEcommerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/luisin/Directorys/Testes_Técnicos/MegaMamute_Londrina/Teste_Tecnico_Megamamute/src/BasicEcommerce/wwwroot/",
+      "BasePath": "_content/BasicEcommerce",
+      "RelativePath": "js/Produto#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l1cq7vl02o",
+      "Integrity": "h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/Produto.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "js/Produto.js",
+      "AssetFile": "/home/luisin/Directorys/Testes_Técnicos/MegaMamute_Londrina/Teste_Tecnico_Megamamute/src/BasicEcommerce/obj/Debug/net9.0/compressed/mnbnanmcmf-l1cq7vl02o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001287001287"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "776"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dmEcBAVzXPMmmZ3r9BFOEyuHQ44W2AObrhWk0Nnr8O4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 00:56:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg="
+        }
+      ]
+    },
+    {
+      "Route": "js/Produto.js",
+      "AssetFile": "/home/luisin/Directorys/Testes_Técnicos/MegaMamute_Londrina/Teste_Tecnico_Megamamute/src/BasicEcommerce/wwwroot/js/Produto.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 00:56:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg="
+        }
+      ]
+    },
+    {
+      "Route": "js/Produto.js.gz",
+      "AssetFile": "/home/luisin/Directorys/Testes_Técnicos/MegaMamute_Londrina/Teste_Tecnico_Megamamute/src/BasicEcommerce/obj/Debug/net9.0/compressed/mnbnanmcmf-l1cq7vl02o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dmEcBAVzXPMmmZ3r9BFOEyuHQ44W2AObrhWk0Nnr8O4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 00:56:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dmEcBAVzXPMmmZ3r9BFOEyuHQ44W2AObrhWk0Nnr8O4="
+        }
+      ]
+    },
+    {
+      "Route": "js/Produto.l1cq7vl02o.js",
+      "AssetFile": "/home/luisin/Directorys/Testes_Técnicos/MegaMamute_Londrina/Teste_Tecnico_Megamamute/src/BasicEcommerce/obj/Debug/net9.0/compressed/mnbnanmcmf-l1cq7vl02o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001287001287"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "776"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dmEcBAVzXPMmmZ3r9BFOEyuHQ44W2AObrhWk0Nnr8O4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 00:56:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l1cq7vl02o"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Produto.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg="
+        }
+      ]
+    },
+    {
+      "Route": "js/Produto.l1cq7vl02o.js",
+      "AssetFile": "/home/luisin/Directorys/Testes_Técnicos/MegaMamute_Londrina/Teste_Tecnico_Megamamute/src/BasicEcommerce/wwwroot/js/Produto.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 00:56:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l1cq7vl02o"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Produto.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg="
+        }
+      ]
+    },
+    {
+      "Route": "js/Produto.l1cq7vl02o.js.gz",
+      "AssetFile": "/home/luisin/Directorys/Testes_Técnicos/MegaMamute_Londrina/Teste_Tecnico_Megamamute/src/BasicEcommerce/obj/Debug/net9.0/compressed/mnbnanmcmf-l1cq7vl02o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dmEcBAVzXPMmmZ3r9BFOEyuHQ44W2AObrhWk0Nnr8O4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 00:56:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l1cq7vl02o"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Produto.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dmEcBAVzXPMmmZ3r9BFOEyuHQ44W2AObrhWk0Nnr8O4="
+        }
+      ]
+    }
+  ]
+}

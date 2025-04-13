@@ -1,0 +1,46 @@
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Lista de Produtos</title>
+    <script src="/js/produtos.js" defer></script>
+</head>
+<body>
+<h2>Lista de Produtos</h2>
+
+<form id="produtoForm">
+    <input type="hidden" id="produtoId" />
+    <div>
+        <input type="text" id="titulo" placeholder="Título" required />
+    </div>
+    <div>
+        <input type="text" id="descricao" placeholder="Descrição" />
+    </div>
+    <div>
+        <input type="number" step="0.01" id="preco" placeholder="Preço" required />
+    </div>
+    <div>
+        <input type="number" id="estoque" placeholder="Estoque" required />
+    </div>
+    <button type="submit">Salvar</button>
+</form>
+
+<hr />
+
+<table id="tabelaProdutos">
+    <thead>
+    <tr>
+        <th>Título</th>
+        <th>Preço</th>
+        <th>Estoque</th>
+        <th>Ações</th>
+    </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+</body>
+</html>

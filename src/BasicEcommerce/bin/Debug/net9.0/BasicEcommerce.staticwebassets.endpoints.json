@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "js/Produto.js",
+      "AssetFile": "js/Produto.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001287001287"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dmEcBAVzXPMmmZ3r9BFOEyuHQ44W2AObrhWk0Nnr8O4=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 00:56:57 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg="
+        }
+      ]
+    },
+    {
+      "Route": "js/Produto.js",
+      "AssetFile": "js/Produto.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 00:56:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg="
+        }
+      ]
+    },
+    {
+      "Route": "js/Produto.js.gz",
+      "AssetFile": "js/Produto.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dmEcBAVzXPMmmZ3r9BFOEyuHQ44W2AObrhWk0Nnr8O4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 00:56:57 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dmEcBAVzXPMmmZ3r9BFOEyuHQ44W2AObrhWk0Nnr8O4="
+        }
+      ]
+    },
+    {
+      "Route": "js/Produto.l1cq7vl02o.js",
+      "AssetFile": "js/Produto.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001287001287"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dmEcBAVzXPMmmZ3r9BFOEyuHQ44W2AObrhWk0Nnr8O4=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 00:56:57 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l1cq7vl02o"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg="
+        },
+        {
+          "Name": "label",
+          "Value": "js/Produto.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/Produto.l1cq7vl02o.js",
+      "AssetFile": "js/Produto.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 00:56:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l1cq7vl02o"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg="
+        },
+        {
+          "Name": "label",
+          "Value": "js/Produto.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/Produto.l1cq7vl02o.js.gz",
+      "AssetFile": "js/Produto.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dmEcBAVzXPMmmZ3r9BFOEyuHQ44W2AObrhWk0Nnr8O4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 00:56:57 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l1cq7vl02o"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dmEcBAVzXPMmmZ3r9BFOEyuHQ44W2AObrhWk0Nnr8O4="
+        },
+        {
+          "Name": "label",
+          "Value": "js/Produto.js.gz"
+        }
+      ]
+    }
+  ]
+}

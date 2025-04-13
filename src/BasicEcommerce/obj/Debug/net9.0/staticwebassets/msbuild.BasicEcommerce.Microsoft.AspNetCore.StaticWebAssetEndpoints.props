@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/BasicEcommerce/js/Produto.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Produto.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2650"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 12 Apr 2025 00:56:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasicEcommerce/js/Produto.l1cq7vl02o.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Produto.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l1cq7vl02o"},{"Name":"integrity","Value":"sha256-h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg="},{"Name":"label","Value":"_content/BasicEcommerce/js/Produto.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2650"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022h62xCFm5jge0GhNBsswea5cCTmKf1zh7Z/9vXtJxRLg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 12 Apr 2025 00:56:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
